@@ -1,0 +1,8 @@
+hydra-core==1.3
+hydra-zen
+hydra_colorlog
+ffmpeg-python
+wis3d
+smplx
+imageio[pyav]
+lapx
